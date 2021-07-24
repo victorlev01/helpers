@@ -1,4 +1,5 @@
-// Udemy click all videos as checked, for quick exercise - only course;
+// Invoke in Udemy online web course to mark all videos as watched, for quick exercise - only course; 
+
 // expand all sections
 document.querySelectorAll('.udi-angle-down').forEach(el=>el.click());
 // initialize list of not-watched videos
